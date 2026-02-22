@@ -5,7 +5,7 @@ metadata:
   namespace: demo-apps
   labels:
     app: demo-app
-spec:
+spec: 
   replicas: 2
   selector:
     matchLabels:
